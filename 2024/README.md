@@ -13,7 +13,7 @@
   * [Umzug ins ETI Rechenzentrum (Matthias Schlecht)](slides/Umzug%20ins%20ETI%20Rechenzentrum/umzug-eti-rz.pdf)
 * 12:00 Uhr: Mittagessen
 * 14:00 Uhr: Talks
-  * [Umfrage für BelWü-Teilnehmer](BelW%C3%BC%20Umfrage/Tech%20Day%202024%20Mentimeter.pdf)
+  * [Umfrage für BelWü-Teilnehmer](slides/BelW%C3%BC%20Umfrage/Tech%20Day%202024%20Mentimeter.pdf)
   * [bwNET2020+ Projektübersicht (Michael König)](slides/bwNET/10_belwue-techday-2024_bwnet2020plus.pdf)
   * [QUIC Benchmarks (Michael König)](slides/bwNET/20_belwue-techday-2024_quic-benchmarks.pdf)
   * [All configuration models suck, choose the one that sucks least (Kilian Krause)](slides/All%20Config%20Models%20Suck/20240409-BelWü-TechDay-all-config-models-suck.pdf)
