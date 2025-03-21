@@ -9,14 +9,14 @@
 ## Agenda
 * 9:30: Kaffee, get together
 * 10:30: Vorträge
-  * Welcome, BelWü-Update - Stefan Giera (BelWü)
-  * IPv4mappedV6 Adressen, ist das Kunst, oder … - Karl Gaissmaier (Uni Ulm)
+  * [Welcome, BelWü-Update - Stefan Giera (BelWü)](slides/Welcome%20und%20BelW%C3%BC%20Update/20250225_techday-sg.pdf)
+  * [IPv4mappedV6 Adressen, ist das Kunst, oder … - Karl Gaissmaier (Uni Ulm)](slides/IPv4mappedV6/IPv4-mapped%20IPv6%20Adressen.pdf)
   * Turning Fiber Optic Cables into Sensitive Seismic Arrays with Distributed Acoustic Sensing - Jerome Azzola (KIT)
   * [Glasfaser putzen - nur ein Click? - Johannes Erwerle (BelWü)](slides/Nur%20ein%20Click/presentation.pdf)
 * 12:00: Mittagspause
 * 14:00: Vorträge
   * [Redundante BelWü-Anschlüsse mit BGP - Sebastian Neuner (BelWü)](slides/Redundanz%20mit%20BGP/belwue-redundanz-bgp.pdf)
-  * Immer dann wenn man es braucht geht es nicht! (Console Port Checks) - Karl Gaissmaier (Uni Ulm)
+  * [Immer dann wenn man es braucht geht es nicht! (Console Port Checks) - Karl Gaissmaier (Uni Ulm)](slides/Console%20Server/Immer%20wenn%20man%27s%20braucht%20geht%20es%20nicht%21.pdf)
   * [bwCampusNetz Updates - Klara Mall (KIT)](slides/bwCampusnetz/2025_02_25_BelW%C3%BC-Tech%20Day_bwCampusnetz.pdf)
   * [ZDV/bwNET 2.0 - Verteilte Netflow/IPFIX Sensorplattform im Kommunikationsnetz der Univ. Tübingen - Benjamin Steinert (Uni Tübingen)](slides/Verteilte%20Netflow%20IPFIX%20Sensorplattform/2025-02-25-Sensorplatform-ZDV-bwNET.pdf)
 * 16:00: Ende - optional: Führung Höchstleistungsrechner
